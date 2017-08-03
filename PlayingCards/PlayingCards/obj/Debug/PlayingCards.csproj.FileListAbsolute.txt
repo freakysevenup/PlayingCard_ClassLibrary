@@ -1,0 +1,4 @@
+C:\Users\15360\_vsprojects\PlayingCards\PlayingCards\bin\Debug\PlayingCards.dll
+C:\Users\15360\_vsprojects\PlayingCards\PlayingCards\bin\Debug\PlayingCards.pdb
+C:\Users\15360\_vsprojects\PlayingCards\PlayingCards\obj\Debug\PlayingCards.dll
+C:\Users\15360\_vsprojects\PlayingCards\PlayingCards\obj\Debug\PlayingCards.pdb
